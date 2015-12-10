@@ -21,13 +21,13 @@ Gem::Specification.new do |s|
 
   ## Make sure your summary is short. The description may be as long
   ## as you like.
-  s.summary     = "Short description used in Gem listings."
+  s.summary     = "Small library to parse plain text email content."
   s.description = "Long description. Maybe copied from the README."
 
   ## List the primary authors. If there are a bunch of authors, it's probably
   ## better to set the email to an email list or something. If you don't have
   ## a custom homepage, consider using your GitHub URL or the like.
-  s.authors  = ["Arpit Jalan"]
+  s.authors  = ["Rick Olson", "Arpit Jalan"]
   s.email    = 'arpit.jalan@discourse.org'
   s.homepage = 'http://github.com/discourse/discourse_email_parser'
 
