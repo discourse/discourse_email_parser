@@ -32,7 +32,7 @@ require 'strscan'
 #
 # [mail]: https://github.com/mikel/mail
 class DiscourseEmailParser
-  VERSION = "0.6.0"
+  VERSION = "0.6.1"
 
   # Public: Splits an email body into a list of Fragments.
   #
